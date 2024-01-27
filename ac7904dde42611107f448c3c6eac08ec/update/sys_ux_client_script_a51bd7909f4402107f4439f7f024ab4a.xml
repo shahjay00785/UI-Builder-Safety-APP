@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Safety Admin">35a6c79c9fc002107f4439f7f024ab15</macroponent>
+        <name>dropdown_1/items</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    var jsonObj = api.data.aggregation_query_1.output;
+    var numOfLoc = jsonObj.data.GlideAggregate_Query.length;
+    var jsonVar = "[";
+    for (var i = 0; i < numOfLoc; i++) {
+        jsonVar = jsonVar + '{"id":"' + jsonObj.data.GlideAggregate_Query[i].groupBy[0].value + '","label":"' + jsonObj.data.GlideAggregate_Query[i].groupBy[0].displayValue + '"}';
+        if (i < (numOfLoc - 1)) {
+            jsonVar = jsonVar + ",";
+        }
+    }
+    jsonVar = jsonVar + ']';
+    return jsonVar;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-26 15:03:22</sys_created_on>
+        <sys_id>a51bd7909f4402107f4439f7f024ab4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dropdown_1/items</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>sys_ux_client_script_a51bd7909f4402107f4439f7f024ab4a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-26 15:03:22</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

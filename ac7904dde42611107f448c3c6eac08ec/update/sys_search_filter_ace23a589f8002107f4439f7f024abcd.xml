@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Issue">4bd5eadce53211107f44d255f3d114cf</ais_search_source>
+        <label>Issue</label>
+        <name>Issue</name>
+        <order>100</order>
+        <search_context_config display_value="Safety WS AI Search Configuration">47d2b65878800210c11b0be46fed94ea</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-26 12:07:43</sys_created_on>
+        <sys_id>ace23a589f8002107f4439f7f024abcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>sys_search_filter_ace23a589f8002107f4439f7f024abcd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-26 12:07:43</sys_updated_on>
+    </sys_search_filter>
+</record_update>
