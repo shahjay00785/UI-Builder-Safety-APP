@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>Transform metadata to add catalog filter </description>
+        <local_or_existing/>
         <name>e4ddcc15d466111013fd59a058bb336d</name>
         <operation display_value="execute">execute</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-10-13 20:44:03</sys_created_on>

@@ -4,6 +4,7 @@
         <api_name>x_snc_safety.Safety Users</api_name>
         <description/>
         <name>Safety Users</name>
+        <role_names/>
         <roles>707904dde42611107f448c3c6eac08f8,2831a114c611228501d4ea6c309d626d</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>

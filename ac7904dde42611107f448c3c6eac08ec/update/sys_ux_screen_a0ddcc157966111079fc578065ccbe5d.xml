@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Safety Portal Config">10ddcc15e46611107f448c3c6eac081c</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Activity">28ddcc153f66111095124c263fc7a15f</macroponent>
         <macroponent_config>{

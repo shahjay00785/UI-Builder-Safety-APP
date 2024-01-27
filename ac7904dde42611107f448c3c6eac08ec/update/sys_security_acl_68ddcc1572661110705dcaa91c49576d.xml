@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>ACL for Get approver sysId data broker</description>
+        <local_or_existing/>
         <name>e8ddcc15dd6611106e09c5b3fe14fa6d</name>
         <operation display_value="execute">execute</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-10-13 20:44:01</sys_created_on>

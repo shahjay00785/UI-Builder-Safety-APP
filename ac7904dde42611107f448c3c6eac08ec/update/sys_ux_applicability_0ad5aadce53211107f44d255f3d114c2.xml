@@ -4,6 +4,7 @@
         <api_name>x_snc_safety.Audience for app safety-ws</api_name>
         <description/>
         <name>Audience for app safety-ws</name>
+        <role_names/>
         <roles>3c7904dde42611107f448c3c6eac08f2,707904dde42611107f448c3c6eac08f8</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -9,6 +9,7 @@
             <item display_table="ais_search_profile" display_value="Safety WS search profile" endquery="false" field="search_profile" goto="false" newquery="false" operator="=" or="false" value="d9d5aadc34321110afa4cc3645ac9f16"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
+        <pretrained>false</pretrained>
         <profile display_value="Safety WS search profile">d9d5aadc34321110afa4cc3645ac9f16</profile>
         <request_source>api</request_source>
         <solution_label>ais_relevancy_d9d5aadc34321110afa4cc3645ac9f16</solution_label>

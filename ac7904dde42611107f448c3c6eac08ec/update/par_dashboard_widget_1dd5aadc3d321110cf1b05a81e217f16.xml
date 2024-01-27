@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">d1d5aadcc9321110410b3c9697ca2711</canvas>
-        <component display_value="now-heading">3a64f550256090d9578ede76158e899c</component>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
         <component_props>{"variant":"header-secondary","label":"My Work","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
         <h>3</h>
         <name/>
+        <stored_component/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-23 15:29:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>1dd5aadc3d321110cf1b05a81e217f16</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
+        <sys_overrides/>
         <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
@@ -19,6 +23,7 @@
         <sys_updated_on>2022-10-23 15:29:55</sys_updated_on>
         <visualization/>
         <w>12</w>
+        <widget_props/>
         <x>0</x>
         <y>12</y>
     </par_dashboard_widget>

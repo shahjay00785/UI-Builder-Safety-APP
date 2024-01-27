@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>StringUtils transform broker for fetching Username in Custom Portal</description>
+        <local_or_existing/>
         <name>28ddcc1518661110b2a8356b8797976d</name>
         <operation display_value="execute">execute</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-10-13 20:44:03</sys_created_on>
