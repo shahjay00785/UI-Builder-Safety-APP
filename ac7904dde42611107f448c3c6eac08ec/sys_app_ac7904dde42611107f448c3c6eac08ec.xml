@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>4579049de42611107f448c3c6eac08de</logo>
+        <menu/>
+        <name>Safety</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_snc_safety</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>This application will allow users to log and track Safety Issues.</short_description>
+        <source>x_snc_safety</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 20:24:52</sys_created_on>
+        <sys_id>ac7904dde42611107f448c3c6eac08ec</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 15:56:56</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.1</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac7904dde42611107f448c3c6eac08ec"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>safety_logo.svg</file_name>
+        <hash>464f37f8ddd91e88eaa4d4699abb7bfb88bfc5c84c5b880ab0339d801880e255</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3367</size_bytes>
+        <size_compressed>1565</size_compressed>
+        <state>available_conditionally</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 20:24:54</sys_created_on>
+        <sys_id>4579049de42611107f448c3c6eac08de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-13 20:25:06</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>ac7904dde42611107f448c3c6eac08ec</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="safety_logo.svg" sys_id="4579049de42611107f448c3c6eac08de">4579049de42611107f448c3c6eac08de</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 20:24:54</sys_created_on>
+        <sys_id>8579049de42611107f448c3c6eac08de</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2076</length>
+        <position>1</position>
+        <sys_attachment display_value="safety_logo.svg" sys_id="4579049de42611107f448c3c6eac08de">4579049de42611107f448c3c6eac08de</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-13 20:24:54</sys_created_on>
+        <sys_id>0979049de42611107f448c3c6eac08de</sys_id>
+    </sys_attachment_doc>
+</record_update>

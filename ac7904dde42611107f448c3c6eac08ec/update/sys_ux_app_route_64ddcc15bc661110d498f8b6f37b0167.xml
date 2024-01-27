@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Safety Portal Config">10ddcc15e46611107f448c3c6eac081c</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Additional Details</name>
+        <optional_parameters/>
+        <order>200</order>
+        <parent_macroponent display_value="Record Page(task)">20ddcc15a5661110851558dd1eaec46a</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_task_additional</route_type>
+        <screen_type display_value="Additional Details">e0ddcc153e66111031bb514396786d67</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-10-13 20:44:02</sys_created_on>
+        <sys_id>64ddcc15bc661110d498f8b6f37b0167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional Details</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>sys_ux_app_route_64ddcc15bc661110d498f8b6f37b0167</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-10-13 20:44:02</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=64ddcc15bc661110d498f8b6f37b0167"/>
+</record_update>

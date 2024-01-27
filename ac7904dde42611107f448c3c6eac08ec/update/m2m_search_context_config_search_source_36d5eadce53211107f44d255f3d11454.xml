@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Safety WS - Workspace Search">d9d5aadccc3211101e289a2cb5ef3415</search_context_config>
+        <source display_value="Safety WS - x_snc_safety_issue">5ed5eadce53211107f44d255f3d1142b</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 15:30:00</sys_created_on>
+        <sys_id>36d5eadce53211107f44d255f3d11454</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_36d5eadce53211107f44d255f3d11454</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-23 15:30:00</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>
