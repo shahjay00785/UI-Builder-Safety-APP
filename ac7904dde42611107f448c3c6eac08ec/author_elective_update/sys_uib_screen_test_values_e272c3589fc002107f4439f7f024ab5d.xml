@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config/>
+        <screen display_value="Safety Landing Page Safety Admins">6e72c3589fc002107f4439f7f024ab53</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-26 13:15:51</sys_created_on>
+        <sys_id>e272c3589fc002107f4439f7f024ab5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_e272c3589fc002107f4439f7f024ab5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-26 13:15:51</sys_updated_on>
+    </sys_uib_screen_test_values>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">ac7904dde42611107f448c3c6eac08ec</application>
+        <file_path/>
+        <instance_id>75008287db7c09109a4dcac5059619d5</instance_id>
+        <instance_name>dev120136</instance_name>
+        <name>sys_uib_screen_test_values_e272c3589fc002107f4439f7f024ab5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config/>
+        <screen display_value="Safety Landing Page Safety Admins">6e72c3589fc002107f4439f7f024ab53</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-26 13:15:51</sys_created_on>
+        <sys_id>e272c3589fc002107f4439f7f024ab5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_e272c3589fc002107f4439f7f024ab5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-26 13:15:51</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>]]></payload>
+        <payload_hash>-1771043344</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>11a610f047000e5077910af3836d43a0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-27 14:02:20</sys_created_on>
+        <sys_id>d1b6d4f047000e5077910af3836d437e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d4b3a79f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-27 14:02:20</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>91b6d4f0ec000e503e1f95b585358a7e</update_guid>
+        <update_guid_history>91b6d4f0ec000e503e1f95b585358a7e:-1771043344</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-29 18:21:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>03acf7f30cfd42c0a94959c4bf70d900</sys_id>
+        <sys_metadata>e272c3589fc002107f4439f7f024ab5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_snc_safety">ac7904dde42611107f448c3c6eac08ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">ac7904dde42611107f448c3c6eac08ec</sys_scope>
+        <sys_scope_delete display_value="">2d00b60413884324b9472eeae5982069</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_e272c3589fc002107f4439f7f024ab5d</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_e272c3589fc002107f4439f7f024ab5d">d1b6d4f047000e5077910af3836d437e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-29 18:21:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

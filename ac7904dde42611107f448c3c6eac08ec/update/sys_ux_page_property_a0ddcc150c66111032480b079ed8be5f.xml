@@ -6,7 +6,7 @@
         <page display_value="Safety Portal">68ddcc15206611108baa3bf3cdb5f25c</page>
         <required_translations>[ ]</required_translations>
         <route/>
-        <suffix/>
+        <suffix>chrome_footer</suffix>
         <sys_class_name>sys_ux_page_property</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2022-10-13 20:44:04</sys_created_on>
